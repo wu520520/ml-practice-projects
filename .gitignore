@@ -1,0 +1,23 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ===== Jupyter =====
+.ipynb_checkpoints/
+
+# ===== 虚拟环境 =====
+venv/
+.venv/
+env/
+
+# ===== IDE =====
+.idea/
+.vscode/
+
+# ===== 无关文件 =====
+数据/smt.txt
+
+# ===== 系统文件 =====
+.DS_Store
+Thumbs.db
